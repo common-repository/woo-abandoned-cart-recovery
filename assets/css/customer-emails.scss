@@ -1,0 +1,25 @@
+.tablenav.top {
+  display: flex;
+  margin: 10px 0;
+}
+
+.alignleft.actions.bulkactions {
+  padding: 0;
+}
+
+.wacv-control-buttons {
+  display: flex;
+  flex-grow: 1;
+}
+
+progress.wacv-export-progress {
+  flex-grow: 1;
+  margin: 5px 20px;
+  padding: 10px;
+}
+
+.tablenav .tablenav-pages {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}

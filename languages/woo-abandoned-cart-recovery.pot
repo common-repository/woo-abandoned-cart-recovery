@@ -1,0 +1,814 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Abandoned Cart Recovery for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-10 07:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: woo-abandoned-cart-recovery"
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:75
+msgid ""
+" If you want to use CronJob server, access your server and config with "
+"command:"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/templates/html-date-picker.php:20
+msgid "30 days"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/templates/html-date-picker.php:22
+msgid "365 days"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/templates/html-date-picker.php:21
+msgid "90 days"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:227
+msgid "Abandoned"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/reports.php:51
+msgid "Abandoned Cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:41
+msgid "Abandoned cart records will be automatically deleted after this time"
+msgstr ""
+
+#. Name of the plugin
+msgid "Abandoned Cart Recovery for WooCommerce"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:40
+msgid "Abandoned Cart time for Guest"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:38
+msgid "Abandoned Cart time for Members"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:92
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/reports.php:63
+msgid "Abandoned Carts"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:42
+msgid "Access token"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:83
+msgid "Action"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:67
+msgid "Add New"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:66
+msgid "Add New Email Template"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:190
+msgid "Add rule"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:51
+msgid "Add to cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:97
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:87
+msgid "All"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:64
+msgid "All Emails"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:250
+msgid "Allow free shipping"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:167
+msgid "Amount"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/product-report-table.php:98
+msgid "Amount of Abandoned"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/product-report-table.php:100
+msgid "Amount of Recovered"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:37
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:34
+msgid "App ID"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:38
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:35
+msgid "App secret"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:38
+msgid "Appear on"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:39
+msgid "Bitly config"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:41
+msgid "Callback Webhooks URL"
+msgstr ""
+
+#. Description of the plugin
+msgid "Capture abandoned cart & send reminder emails to the customers."
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:34
+msgid "Cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:148
+msgid "Cart Detail"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:54
+msgid "Cart log"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:52
+msgid "Cart page"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:55
+msgid "Checkout GDPR"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:52
+msgid "Checkout page"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/execute/abandoned-cart.php:280
+msgid "Click here to view order"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/execute/recovered.php:234
+msgid "Close"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:53
+msgid "Color settings"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/plugin.php:262
+msgid "Continue shopping"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/reports.php:143
+msgid "Coupon"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:246
+msgid "Coupon amount"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:165
+msgid "Coupon Code"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:247
+msgid "Coupon expiry after x days"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:118
+msgid "Coupon settings"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:117
+msgid "Coupon used"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/product-report-table.php:97
+msgid "Current Abandoned"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/templates/html-date-picker.php:23
+msgid "Custom"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:147
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:114
+msgid "Customer"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:461
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:146
+msgid "Date"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:385
+msgid "Delete"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:41
+msgid "Delete abandoned records"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:169
+msgid "Description"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:45
+msgid "Design"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:245
+msgid "Discount type"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:40
+msgid "Dismiss time"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/reports.php:89
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/reports.php:184
+msgid "Display"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:581
+msgid "Duplicate"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:68
+msgid "Edit Email Templates"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:64
+msgid "Email"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:115
+msgid "Email Address"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:36
+msgid "Email for Abandoned Cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:50
+msgid "Email for Abandoned Order"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:73
+msgid "Email popup"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:39
+msgid "Email required"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:105
+msgid "Email settings"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:82
+msgid "Email template"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:112
+msgid "Email template builder"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:51
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:52
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:62
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:76
+msgid "Email Templates"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/define.php:282
+msgid ""
+"Email templates have been updated. Please re-create your email templates."
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:53
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:50
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:58
+msgid "Enable"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:45
+msgid "Enable product link in the product detail in the abandoned emails"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:256
+msgid "Exclude categories"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:49
+msgid "Exclude people"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:254
+msgid "Exclude products"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:252
+msgid "Exclude sale items"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:67
+msgid "Facebook messenger"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:151
+msgid "From"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:56
+msgid "GDPR message"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/reports.php:135
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:61
+msgid "General"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:238
+msgid "Generate coupon"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:105
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:202
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:95
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:197
+msgid "Guest"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/execute/abandoned-cart.php:275
+msgid "Have a recovered order from abandoned cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:159
+msgid "Heading"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:128
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:129
+msgid "Hey !! You left something in your cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:105
+msgid "hours"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woo-abandoned-cart-recovery/"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:113
+msgid "ID"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:164
+msgid "Id"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:39
+msgid "If enable, the plugin will track abandoned cart of guests"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:37
+msgid "If enable, the plugin will track abandoned cart of logged users"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:55
+msgid ""
+"If enabled, a GDPR notice will display after the email input field on the "
+"checkout page."
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:57
+msgid "Ignore Email Button Text"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:251
+msgid "Individual use only"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:52
+msgid "Invalid email notice"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:295
+msgid "item"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:295
+msgid "items"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:39
+msgid "Language"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:258
+msgid "Limit usage to X items"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:249
+msgid "Maximum spend"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:101
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:91
+msgid "Member"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:248
+msgid "Minimum spend"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:102
+msgid "minutes"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:119
+msgid "More Info"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/ajax.php:212
+msgid "No id to remove record"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:71
+msgid "Not Found"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:72
+msgid "Not found in Trash"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:236
+msgid "Note: This coupon won't be applied for order reminder email"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:43
+msgid "Notification to Admin"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:44
+msgid "Notification to custom email"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:166
+msgid "Number of Used"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:54
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:59
+msgid "Order status"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:63
+msgid "Parent Email"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery.php:77
+msgid ""
+"Please install and activate WooCommerce to use WooCommerce Abandoned Cart "
+"Recovery."
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:35
+msgid "Pop-up config"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:60
+msgctxt "Post Type General Name"
+msgid "Email Templates"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:61
+msgctxt "Post Type Singular Name"
+msgid "Email Templates"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:535
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/send-email-cron.php:315
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/send-email-cron.php:689
+msgid "Price:"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:144
+msgid "PRO: Use WC Email Template Customizer"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/reports.php:139
+msgid "Product"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:255
+msgid "Product categories"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:45
+msgid "Product link"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/product-report-table.php:96
+msgid "Product Name"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:253
+msgid "Products"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:534
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/send-email-cron.php:317
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/send-email-cron.php:690
+msgid "Quantity:"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:53
+msgid "Recover link to"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:460
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:225
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/product-report-table.php:99
+msgid "Recovered"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:116
+msgid "Recovered Cart Detail"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:82
+msgid "Recovered Carts"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:118
+msgid "Recovered Date"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:41
+msgid "Redirect after Add to cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:150
+msgid "Reminder logs"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:41
+msgid "Reply Emails to"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/reports.php:72
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/reports.php:131
+msgid "Reports"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:31
+msgid "Routee config"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:87
+msgid "Save settings"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:70
+msgid "Search Email Templates"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:241
+msgid "Select coupon"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:40
+msgid "Select the time to mark a cart as abandoned with guests"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:38
+msgid "Select the time to mark a cart as abandoned with logged in users"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:169
+msgid "Send"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:43
+msgid "Send a notification email to admin whenever a cart is recovered"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:382
+msgid "Send abandoned cart email"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:80
+msgid "Send after"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:40
+msgid "Send mail reminder to guest"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:39
+msgid "Send mail reminder to members"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:55
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:73
+msgid "Send mail rules"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery.php:66
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:40
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:41
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:53
+msgid "Settings"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:70
+msgid "SMS"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:47
+msgid "SMS for Abandoned Cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/sms-settings.php:55
+msgid "SMS for Abandoned Order"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:149
+msgid "Status"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:50
+msgid "Sub title"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:148
+msgid "Subject"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:244
+msgid "Tax: "
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:204
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:48
+msgid "Template"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:205
+msgid "Template 1"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:164
+msgid "Test email"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/ajax.php:145
+msgid "This product is not exist"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-popup-settings.php:49
+msgid "Title"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/templates/html-date-picker.php:18
+msgid "Today"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:243
+msgid "Total: "
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:39
+msgid "Tracking Guest's Cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:37
+msgid "Tracking Member's Cart"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/coupon-used-report-table.php:168
+msgid "Type"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:81
+msgid "Unit"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/data.php:307
+msgid "Unknown Browser"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/data.php:266
+msgid "Unknown OS Platform"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/email-settings.php:194
+msgid "Unlock limit"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/admin-settings.php:289
+msgid "Unlock this feature"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/plugin.php:263
+msgid "Unsubscribe abandoned cart reminder"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/abandoned-report-table.php:227
+msgid "Unsubscribed"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:69
+msgid "Update Email Templates"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:257
+msgid "Usage limit per coupon"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:259
+msgid "Usage limit per user"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:236
+msgid "Use coupon"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:152
+msgid "Use WC's header & footer default"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:40
+msgid "Valid OAuth redirected URls:"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/fb-messenger-settings.php:42
+msgid "Verify Token"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/templates/html-date-picker.php:39
+msgid "View"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/email/email-templates.php:65
+msgid "View Template"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/reports/recovered-report-table.php:200
+msgid "Visitor"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/templates/html-date-picker.php:19
+msgid "Yesterday"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/ajax.php:206
+msgid "You have no permission to do this action"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:72
+msgid ""
+"Your WP Cron is disabled. If you want to use WP Cron, open file wp-config."
+"php and delete row define( \"DISABLE_WP_CRON\", true );."
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/settings/general-settings.php:84
+msgid ""
+"Your WP Cron is enabled. If you want to use Cronjob server, open file wp-"
+"config.php and add row define( \"DISABLE_WP_CRON\", true );. Access your "
+"server and config with command:"
+msgstr ""
+
+#: E:/git-2017/free-version/woo-abandoned-cart-recovery/woo-abandoned-cart-recovery/includes/execute/abandoned-cart.php:278
+msgid "You’ve received a recovered order from abandoned cart."
+msgstr ""
